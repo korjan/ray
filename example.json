@@ -1,0 +1,16 @@
+{
+	"author": "korjan",
+	"name" : "example",
+	"api" : "v1",
+	"groups" : ["living"],
+	"commands" : [
+			{
+			"for": 0,
+			"state" : {
+				"on" : "true",
+				"colormode" : "hs",
+				"bri" : "abs(sin(t/5000))*255"
+				}
+			}
+		]
+}

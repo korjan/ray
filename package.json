@@ -1,0 +1,26 @@
+{
+  "name": "ray",
+  "version": "0.0.0",
+  "description": "ray ===",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/korjan/ray.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korjan/ray/issues"
+  },
+  "homepage": "https://github.com/korjan/ray",
+  "dependencies": {
+    "mathjs": "^1.0.1",
+    "q": "^1.1.1",
+    "q-io": "^1.11.2",
+    "underscore": "^1.6.0",
+    "wait.for": "^0.6.6"
+  }
+}
